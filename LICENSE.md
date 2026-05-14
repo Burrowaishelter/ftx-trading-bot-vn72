@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with automatic ftx trading bot Module | liquidity-provision + price-monitoring, the #1 ftx trading bot. Includes liquidity-provision and price-monitoring for
 
 
 
